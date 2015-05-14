@@ -7,6 +7,10 @@ public class PrincipalBase {
 	//3.Se selecciona crear un repositoria en el folder sup
 	//4. se crea
 	//5. se selecciona commit
+	//6. se configura sobre el master y listo
+	//7. Se verifica si subio en el repositorio
+	//8. Se crea otro branch e igual se sube en switch to
+	
 	
 	
 
