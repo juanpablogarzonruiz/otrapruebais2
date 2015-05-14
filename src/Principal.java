@@ -6,4 +6,10 @@ public class Principal {
 	{
 		
 	}
+	
+	
+	public int cambio()
+	{
+		
+	}
 }
