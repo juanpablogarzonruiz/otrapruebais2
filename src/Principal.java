@@ -2,6 +2,13 @@
 public class Principal {
 	private String otro;
 	
+	
+	//aca se construye otro por molestar
+	public void Principal()
+	{
+		
+	}
+	
 	public void ele()
 	{
 		
@@ -30,5 +37,13 @@ public class Principal {
 	{
 		String inf="";
 		
+	}
+	
+	public void otrometodo()
+	{
+		int i=1;
+		
+		i=i+1;
+		i=i*4/2;
 	}
 }
