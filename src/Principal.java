@@ -12,4 +12,11 @@ public class Principal {
 	{
 		
 	}
+	
+	public void otrometodo()
+	{
+		int i=1;
+		
+		i=i+1;
+	}
 }
