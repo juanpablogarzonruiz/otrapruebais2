@@ -11,7 +11,15 @@ public class PrincipalBase {
 	//7. Se verifica si subio en el repositorio
 	//8. Se crea otro branch e igual se sube en switch to
 	
+	//esto es en workspace
+	//9. se importa el projecto
+	//10. se crea otro brach y se trabajo con el 
+	// 11.se trabaja con remote para configurar y posterior para sincronizar por avanzadas
 	
+	public void PrinicpalBase()
+	{
+		
+	}
 	
 
 }
