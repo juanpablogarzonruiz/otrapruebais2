@@ -10,6 +10,8 @@ public class Principal {
 	
 	public int cambio()
 	{
-		
+	  int kksd;
+	  
+	  
 	}
 }
